@@ -1,4 +1,4 @@
-# almacene un número en una variable y pida al usuario adivinarlo
+# 3 almacene un número en una variable y pida al usuario adivinarlo
 
 numero_secreto= 13
 adivina= int(input("Adivina el número: "))

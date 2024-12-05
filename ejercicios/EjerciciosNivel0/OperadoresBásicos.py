@@ -1,4 +1,4 @@
-# Operaciones Básicas: Suma y Multiplicación
+# 2 Operaciones Básicas: Suma y Multiplicación
 
 numero1 = 10
 numero2 = 5
